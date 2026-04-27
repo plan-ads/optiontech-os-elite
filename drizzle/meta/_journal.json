@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1769015114632,
+      "tag": "0000_amusing_drax",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1769015485599,
+      "tag": "0001_opposite_warpath",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1769065570142,
+      "tag": "0002_flowery_stepford_cuckoos",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1769471344793,
+      "tag": "0003_sturdy_spyke",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1769473011689,
+      "tag": "0004_third_luminals",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1769516993458,
+      "tag": "0005_solid_lady_bullseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1769517905326,
+      "tag": "0006_cooing_whistler",
+      "breakpoints": true
+    }
+  ]
+}
